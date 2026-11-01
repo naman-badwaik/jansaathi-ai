@@ -1,0 +1,8 @@
+# ====================================================================
+# JANSAATHI AI - Supabase Edge Functions Configuration
+# ====================================================================
+
+project_id = "mdkmwvssxwqnbdmxjekl"
+
+[functions.chat]
+verify_jwt = false
