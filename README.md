@@ -1,5 +1,12 @@
 # JANSAATHI AI (जनसाथी AI)
 > **Government services, made simpler for everyone.**
+>
+> ## 🚀 Live Demo
+
+**Try JANSAATHI AI here:**  
+👉 https://jansaathi-ai-rho.vercel.app
+
+*Government Services, Made Simpler for Everyone.*
 
 JANSAATHI AI is an intelligent citizen-service agent built to help Indian citizens discover government welfare schemes, understand eligibility criteria, analyse required documents, prepare applications, and track progress across central and state portals.
 
